@@ -1,0 +1,11 @@
+INIT: cria um novo repositório ou reinicia um repositório existente;
+Clone: clona o código de um repositório para sua utilização em outro ambiente;
+ADD: adiciona um arquivo alterado;
+Commit:move os arquivos da state area para um repositório local;
+Log: permite a visualização do histórico de commits de um arquivo,usuário;
+Merge: une arquivos alterados ao original de um projeto;
+Pull: traz um arquivo do repositório remoto para o repositório local;
+Push: envia arquivos de um repositório local para um repositório remoto;
+
+
+
